@@ -107,17 +107,17 @@ a {
   background-repeat: no-repeat;
 }
 .control-btn__search {
-  background-image: url(images/search.svg);
+  background-image: url(/images/search.svg);
   width: 1.8rem;
   height: 1.8rem;
 }
 .control-btn__notice {
-  background-image: url(images/notice.svg);
+  background-image: url(/images/notice.svg);
   width: 2.13rem;
   height: 2.25rem;
 }
 .control-btn__user {
-  background-image: url(images/account.svg);
+  background-image: url(/images/account.svg);
   width: 1.8rem;
   height: 1.92rem;
 }
@@ -156,7 +156,7 @@ a {
   display: block;
   width: 0.9rem;
   height: 1.5rem;
-  background-image: url(images/title-arrow.svg);
+  background-image: url(/images/title-arrow.svg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -211,7 +211,7 @@ a {
   display: block;
   width: 6rem;
   height: 2.4rem;
-  background-image: url(images/age.svg);
+  background-image: url(/images/age.svg);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -233,7 +233,7 @@ a {
   right: -2.5rem;
   width: 1.6rem;
   height: 1.6rem;
-  background-image: url(./images/star.svg);
+  background-image: url(/images/star.svg);
 }
 .banner__btn {
   background-color: transparent;
@@ -267,7 +267,7 @@ a {
   width: 1.4rem;
   left: 3rem;
   top: 1.4rem;
-  background-image: url(images/play.svg);
+  background-image: url(/images/play.svg);
 }
 .banner__btn-info {
   color: #323232;
@@ -383,7 +383,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: url(images/offer-bg.png);
+  background-image: url(/images/offer-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 7.2rem 14.7rem 7.2rem 5.7rem;
